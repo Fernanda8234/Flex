@@ -80,3 +80,21 @@ li {
     border: 2px solid black;
     border-radius: 50%;
 }
+.azul {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(206, 250, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5px;
+    display: flex;
+}
+
+.azul div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(63, 108, 213);
+    border: 2px solid black;
+    border-radius: 50%;
+}
