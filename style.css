@@ -62,3 +62,21 @@ li {
     border: 2px solid black;
     border-radius: 50%;
 }
+.amarelo {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(250, 254, 178);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+    display: flex;
+}
+
+.amarelo div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(245, 242, 73);
+    border: 2px solid black;
+    border-radius: 50%;
+}
