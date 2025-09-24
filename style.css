@@ -8,12 +8,18 @@ ul,
 ol,
 li {
     list-style: none;
-    display: block;
 }
+
+.conteiner {
+    min-height: 100dvh;
+    background-color: lightgray;
+  }
+  
+  
 
 .roxo {
     width: 100vw;
-    height: 200px;
+    height: 250px;
     background-color: rgb(208, 189, 246);
     display: flex;
     justify-content: right;
@@ -31,7 +37,7 @@ li {
 }
 .verde {
     width: 100vw;
-    height: 200px;
+    height: 250px;
     background-color: rgb(204, 246, 189);
     display: flex;
     justify-content: right;
@@ -48,7 +54,7 @@ li {
 }
 .vermelho {
     width: 100vw;
-    height: 200px;
+    height: 250px;
     background-color: rgb(254, 178, 178);
     display: flex;
     justify-content: center;
@@ -65,7 +71,7 @@ li {
 }
 .amarelo {
     width: 100vw;
-    height: 200px;
+    height: 250px;
     background-color: rgb(250, 254, 178);
     display: flex;
     justify-content: space-between;
@@ -83,7 +89,7 @@ li {
 }
 .azul {
     width: 100vw;
-    height: 200px;
+    height: 250px;
     background-color: rgb(206, 250, 255);
     display: flex;
     justify-content: space-around;
